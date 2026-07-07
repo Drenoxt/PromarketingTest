@@ -81,7 +81,7 @@ Covers note persistence, empty-note validation, and the list refreshing on
 the emitted event. Runs on an in-memory SQLite connection, so no database
 server is required.
 
-# Player Notes
+# Player Notes Español
 
 *[Read this in English](README.md)*
 
