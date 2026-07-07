@@ -1,5 +1,7 @@
 # Player Notes
 
+*[Leer en español](README.es.md)*
+
 Internal module that lets support agents leave and review notes about
 individual players. Built with **Laravel 13 · Livewire 4 ·
 spatie/laravel-permission**, following the repository pattern and
